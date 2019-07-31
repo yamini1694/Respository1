@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 605B-D429
+
+ Directory of D:\Selenium\WORKING\Sample for git
+
+31-Jul-19  11:00 PM    <DIR>          .
+31-Jul-19  11:00 PM    <DIR>          ..
+31-Jul-19  11:00 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  32,861,290,496 bytes free
